@@ -1,0 +1,22 @@
+{
+  "name": "hugb",
+  "version": "1.0.0",
+  "description": "for school",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Annasig95/LabWeek8.git"
+  },
+  "author": "Anna Lara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Annasig95/LabWeek8/issues"
+  },
+  "homepage": "https://github.com/Annasig95/LabWeek8#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
